@@ -1,5 +1,5 @@
 {
-  "name": "translatep",
+  "name": "translate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
-    "@vitalets/google-translate-api": "^9.0.0",
+    "@vitalets/google-translate-api": "^9.0.0"
   }
 }
