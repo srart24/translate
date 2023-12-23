@@ -1,5 +1,5 @@
 const express = require('express');
-const translate = require('@vitalets/google-translate-api');
+const { translate } = require('@vitalets/google-translate-api');
 const app = express();
 const port = 3000;
 
